@@ -1,0 +1,13 @@
+C:\Users\Mrx\Desktop\C#-codes\dayCalc\bin\Debug\netcoreapp3.1\dayCalc.exe
+C:\Users\Mrx\Desktop\C#-codes\dayCalc\bin\Debug\netcoreapp3.1\dayCalc.deps.json
+C:\Users\Mrx\Desktop\C#-codes\dayCalc\bin\Debug\netcoreapp3.1\dayCalc.runtimeconfig.json
+C:\Users\Mrx\Desktop\C#-codes\dayCalc\bin\Debug\netcoreapp3.1\dayCalc.runtimeconfig.dev.json
+C:\Users\Mrx\Desktop\C#-codes\dayCalc\bin\Debug\netcoreapp3.1\dayCalc.dll
+C:\Users\Mrx\Desktop\C#-codes\dayCalc\bin\Debug\netcoreapp3.1\dayCalc.pdb
+C:\Users\Mrx\Desktop\C#-codes\dayCalc\obj\Debug\netcoreapp3.1\dayCalc.csprojAssemblyReference.cache
+C:\Users\Mrx\Desktop\C#-codes\dayCalc\obj\Debug\netcoreapp3.1\dayCalc.AssemblyInfoInputs.cache
+C:\Users\Mrx\Desktop\C#-codes\dayCalc\obj\Debug\netcoreapp3.1\dayCalc.AssemblyInfo.cs
+C:\Users\Mrx\Desktop\C#-codes\dayCalc\obj\Debug\netcoreapp3.1\dayCalc.csproj.CoreCompileInputs.cache
+C:\Users\Mrx\Desktop\C#-codes\dayCalc\obj\Debug\netcoreapp3.1\dayCalc.dll
+C:\Users\Mrx\Desktop\C#-codes\dayCalc\obj\Debug\netcoreapp3.1\dayCalc.pdb
+C:\Users\Mrx\Desktop\C#-codes\dayCalc\obj\Debug\netcoreapp3.1\dayCalc.genruntimeconfig.cache
